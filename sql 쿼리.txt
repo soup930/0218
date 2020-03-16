@@ -1,4 +1,4 @@
-create table customers(
+create table customers2(
     id varchar2(50) PRIMARY KEY,
     pw varchar2(50),
     name varchar2(50)
