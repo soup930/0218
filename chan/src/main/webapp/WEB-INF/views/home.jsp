@@ -13,6 +13,7 @@
 <body>
 <table>
 <h1>제발제발제발</h1>
+<h1>제발제발제발</h1>
 	<tr>
 		<td><input type="text" id="textValue" name="textValue"/></td>
 		<td><input type="button" id="search" name="search" onclick="" value="조회"/></td>
