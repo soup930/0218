@@ -13,6 +13,8 @@
 <body>
 <table>
 ㄹㅇㄴㄹㄴㄹㄴㄹ
+fdsafdsafdsfdsfsd
+fdsafdsafdsafdasf
 	<tr>
 		<td><input type="text" id="textValue" name="textValue"/></td>
 		<td><input type="button" id="search" name="search" onclick="" value="조회"/></td>
