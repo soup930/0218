@@ -8,7 +8,15 @@
 	<title>Home</title>
 	
 	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-	<script type="text/javascript"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			function after(){
+				$.ajax({
+					
+				})
+			}
+		})
+	</script>
 </head>
 <body>
 <table>
@@ -18,7 +26,7 @@
 		<td><input type="button" id="add" name="add" onclick="" value="추가"/></td>
 		<td><input type="button" id="storage" name="storage" onclick="" value="저장"/></td>
 		<td><input type="button" id="prev" name="prev" onclick="" value="이전"/></td>
-		<td><input type="button" id="next" name="next" onclick="" value="이후"/></td>
+		<td><input type="button" id="next" name="next" onclick="after()" value="이후"/></td>
 	</tr>
 </table>
 </body>
